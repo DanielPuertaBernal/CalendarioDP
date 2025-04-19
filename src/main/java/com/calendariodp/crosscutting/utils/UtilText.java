@@ -1,6 +1,6 @@
 package com.calendariodp.crosscutting.utils;
 
-import static com.ucoshopapi.ucoshopapi.crosscutting.utils.UtilObject.getUtilObject;
+import static com.calendariodp.crosscutting.utils.UtilObject.getUtilObject;
 
 public class UtilText {
     public static final String EMPTY = "";
